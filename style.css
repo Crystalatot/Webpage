@@ -1,0 +1,15 @@
+.humss-logo{
+  position: fixed;
+}
+.title{
+  color: blue;
+  position: relative;
+  bottom: 280px;
+  left: 600px;
+  font-size: 4rem;
+
+}
+.book{
+  position: relative;
+  top: 80px;
+}
